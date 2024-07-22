@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Yasmin Vilela\\Desktop\\AspNetCore-DDD-main\\AspNetCore-DDD-main\\Src\\DDD.Infra.CrossCutting.Bus\\DDD.Infra.CrossCutting.Bus.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Yasmin Vilela\\Desktop\\AspNetCore-DDD-main\\AspNetCore-DDD-main\\Src\\DDD.Infra.CrossCutting.Bus\\DDD.Infra.CrossCutting.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yasmin Vilela\\Desktop\\AspNetCore-DDD-main\\AspNetCore-DDD-main\\Src\\DDD.Infra.CrossCutting.Bus\\DDD.Infra.CrossCutting.Bus.csproj",
+        "projectName": "TaskB3.Infra.CrossCutting.Bus",
+        "projectPath": "C:\\Users\\Yasmin Vilela\\Desktop\\AspNetCore-DDD-main\\AspNetCore-DDD-main\\Src\\DDD.Infra.CrossCutting.Bus\\DDD.Infra.CrossCutting.Bus.csproj",
+        "packagesPath": "C:\\Users\\Yasmin Vilela\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yasmin Vilela\\Desktop\\AspNetCore-DDD-main\\AspNetCore-DDD-main\\Src\\DDD.Infra.CrossCutting.Bus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yasmin Vilela\\Desktop\\AspNetCore-DDD-main\\AspNetCore-DDD-main\\NuGet.Config",
+          "C:\\Users\\Yasmin Vilela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Yasmin Vilela\\Desktop\\AspNetCore-DDD-main\\AspNetCore-DDD-main\\Src\\TaskB3.Domain.Core\\TaskB3.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\Yasmin Vilela\\Desktop\\AspNetCore-DDD-main\\AspNetCore-DDD-main\\Src\\TaskB3.Domain.Core\\TaskB3.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

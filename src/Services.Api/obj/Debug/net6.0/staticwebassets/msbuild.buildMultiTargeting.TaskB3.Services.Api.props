@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TaskB3.Services.Api.props" />
+</Project>

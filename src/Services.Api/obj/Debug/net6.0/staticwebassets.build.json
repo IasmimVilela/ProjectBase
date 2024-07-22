@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pWZD24mpZw+DVibkDkawtqWtACnWMIUndCtC9e6ayiQ=",
+  "Source": "TaskB3.Services.Api",
+  "BasePath": "_content/TaskB3.Services.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

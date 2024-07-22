@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>TaskB3.Infra.CrossCutting.IoC</RootNamespace>
+    <AssemblyName>TaskB3.Infra.CrossCutting.IoC</AssemblyName>
+    <AnalysisLevel>5</AnalysisLevel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application\Application.csproj" />
+    <ProjectReference Include="..\Domain.Core\Domain.Core.csproj" />
+    <ProjectReference Include="..\Infra.CrossCutting.Bus\Infra.CrossCutting.Bus.csproj" />
+    <ProjectReference Include="..\Infra.CrossCutting.Identity\Infra.CrossCutting.Identity.csproj" />
+    <ProjectReference Include="..\Infra.Data\Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

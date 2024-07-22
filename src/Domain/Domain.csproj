@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>TaskB3.Domain</RootNamespace>
+    <AssemblyName>TaskB3.Domain</AssemblyName>
+    <AnalysisLevel>5</AnalysisLevel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Interfaces\Messaging\IEventMediatorHandler.cs" />
+    <Compile Remove="Interfaces\Messaging\IMessagemReceiver.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Quartz.AspNetCore" Version="3.7.0" />
+    <PackageReference Include="Refit.HttpClientFactory" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain.Core\Domain.Core.csproj" />
+  </ItemGroup>
+
+</Project>

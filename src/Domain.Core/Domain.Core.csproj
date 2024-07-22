@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>TaskB3.Domain.Core</RootNamespace>
+    <AssemblyName>TaskB3.Domain.Core</AssemblyName>
+    <AnalysisLevel>5</AnalysisLevel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+    <PackageReference Include="MediatR" Version="12.1.1" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.6.0" />
+  </ItemGroup>
+
+</Project>

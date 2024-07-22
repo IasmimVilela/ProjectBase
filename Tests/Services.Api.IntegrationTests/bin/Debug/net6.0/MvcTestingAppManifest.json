@@ -1,0 +1,7 @@
+{
+  "TaskB3.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Yasmin Vilela\\Desktop\\Projeto_B3_01\\API\\Src\\Application",
+  "TaskB3.Domain.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Yasmin Vilela\\Desktop\\Projeto_B3_01\\API\\Src\\Domain.Core",
+  "TaskB3.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Yasmin Vilela\\Desktop\\Projeto_B3_01\\API\\Src\\Domain",
+  "TaskB3.Infra.CrossCutting.Bus, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Yasmin Vilela\\Desktop\\Projeto_B3_01\\API\\Src\\Infra.CrossCutting.Bus",
+  "TaskB3.Infra.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Yasmin Vilela\\Desktop\\Projeto_B3_01\\API\\Src\\Infra.Data"
+}
