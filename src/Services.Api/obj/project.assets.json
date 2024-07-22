@@ -7104,11 +7104,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Services.Api\\TaskB3.Services.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Services.Api\\TaskB3.Services.Api.csproj",
       "projectName": "TaskB3.Services.Api",
-      "projectPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Services.Api\\TaskB3.Services.Api.csproj",
+      "projectPath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Services.Api\\TaskB3.Services.Api.csproj",
       "packagesPath": "C:\\Users\\Yasmin Vilela\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Services.Api\\obj\\",
+      "outputPath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Services.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yasmin Vilela\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7125,23 +7125,23 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Application\\Application.csproj"
+            "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Application\\Application.csproj"
             },
-            "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Domain\\Domain.csproj"
+            "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Infra.CrossCutting.Bus\\Infra.CrossCutting.Bus.csproj": {
-              "projectPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Infra.CrossCutting.Bus\\Infra.CrossCutting.Bus.csproj"
+            "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Infra.CrossCutting.Bus\\Infra.CrossCutting.Bus.csproj": {
+              "projectPath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Infra.CrossCutting.Bus\\Infra.CrossCutting.Bus.csproj"
             },
-            "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Infra.CrossCutting.Identity\\Infra.CrossCutting.Identity.csproj": {
-              "projectPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Infra.CrossCutting.Identity\\Infra.CrossCutting.Identity.csproj"
+            "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Infra.CrossCutting.Identity\\Infra.CrossCutting.Identity.csproj": {
+              "projectPath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Infra.CrossCutting.Identity\\Infra.CrossCutting.Identity.csproj"
             },
-            "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Infra.CrossCutting.IoC\\Infra.CrossCutting.IoC.csproj": {
-              "projectPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Infra.CrossCutting.IoC\\Infra.CrossCutting.IoC.csproj"
+            "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Infra.CrossCutting.IoC\\Infra.CrossCutting.IoC.csproj": {
+              "projectPath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Infra.CrossCutting.IoC\\Infra.CrossCutting.IoC.csproj"
             },
-            "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Infra.Data\\Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Infra.Data\\Infra.Data.csproj"
+            "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Infra.Data\\Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Infra.Data\\Infra.Data.csproj"
             }
           }
         }

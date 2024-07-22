@@ -5886,9 +5886,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Application\\Application.csproj",
       "projectName": "TaskB3.Application",
-      "projectPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Yasmin Vilela\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Application\\obj\\",
       "projectStyle": "PackageReference",
@@ -5907,11 +5907,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Domain\\Domain.csproj"
+            "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Infra.Data\\Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Infra.Data\\Infra.Data.csproj"
+            "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Infra.Data\\Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Infra.Data\\Infra.Data.csproj"
             }
           }
         }

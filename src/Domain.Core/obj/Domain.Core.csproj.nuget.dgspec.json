@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Domain.Core\\Domain.Core.csproj": {}
+    "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Domain.Core\\Domain.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Domain.Core\\Domain.Core.csproj": {
+    "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Domain.Core\\Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Domain.Core\\Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Domain.Core\\Domain.Core.csproj",
         "projectName": "TaskB3.Domain.Core",
-        "projectPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Domain.Core\\Domain.Core.csproj",
+        "projectPath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Domain.Core\\Domain.Core.csproj",
         "packagesPath": "C:\\Users\\Yasmin Vilela\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Domain.Core\\obj\\",
         "projectStyle": "PackageReference",

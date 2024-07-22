@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZM12H3Us3QpU60x0r78RWSaMaUJ7EGgUdkhtSMBbo3XaGmq1uiOhHeZaiQ93XkrroPA0PPFQVzgrVLtkGz+x/g==",
+  "dgSpecHash": "QPwHLu12W/3tICXexQNICB40ciQ+LebwldQ4Gt/l/YGxxspE/jvxAGBPxE1OLri1kkOeaPdPliiMJDQIB7enCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Services.Api\\TaskB3.Services.Api.csproj",
+  "projectFilePath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Services.Api\\TaskB3.Services.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yasmin Vilela\\.nuget\\packages\\aspnetcore.healthchecks.sqlserver\\7.0.0\\aspnetcore.healthchecks.sqlserver.7.0.0.nupkg.sha512",
     "C:\\Users\\Yasmin Vilela\\.nuget\\packages\\aspnetcore.healthchecks.ui\\7.0.2\\aspnetcore.healthchecks.ui.7.0.2.nupkg.sha512",

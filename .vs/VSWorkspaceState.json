@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\Domain",
+    "\\src\\Domain\\Commands"
   ],
-  "SelectedNode": "\\C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase",
   "PreviewInSolutionExplorer": false
 }

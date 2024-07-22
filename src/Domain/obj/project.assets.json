@@ -1713,9 +1713,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Domain\\Domain.csproj",
       "projectName": "TaskB3.Domain",
-      "projectPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Yasmin Vilela\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Domain\\obj\\",
       "projectStyle": "PackageReference",
@@ -1734,8 +1734,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Domain.Core\\Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Domain.Core\\Domain.Core.csproj"
+            "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Domain.Core\\Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Domain.Core\\Domain.Core.csproj"
             }
           }
         }

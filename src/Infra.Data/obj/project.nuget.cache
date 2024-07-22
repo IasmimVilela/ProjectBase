@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JF/lkewYRqBv2yu2lSS/kz8A9Pi7uZTFMpP4Yk2xTnigXAnKXP6BBgJo0ppqzqzA56dqmPrKVaJo/t7SMVjAFg==",
+  "dgSpecHash": "t9YDUQBRypUG1l9iihux2cVWXUNk7W8PQ801FMUHdovnz5kpWzMJdjwHvjOvsmkD7TJ08tJMwX4XkML6wTRu7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Infra.Data\\Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Infra.Data\\Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yasmin Vilela\\.nuget\\packages\\aspnetcore.healthchecks.sqlserver\\7.0.0\\aspnetcore.healthchecks.sqlserver.7.0.0.nupkg.sha512",
     "C:\\Users\\Yasmin Vilela\\.nuget\\packages\\awssdk.cloudwatchlogs\\3.5.0.9\\awssdk.cloudwatchlogs.3.5.0.9.nupkg.sha512",

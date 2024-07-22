@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gCZqOpitwOVgBL0moBtyOkfRytQIRZ0kaJw1qgk0mUZpMahLAFV1DbWwZkJgmSWo/Xuw+rkQk6+AF7YaVVqdBA==",
+  "dgSpecHash": "8TJ5HOyIAnDL9tZCRNs300dxV1A0H41Ilc8TqmYw9aLmgLBQocEVsVdl1rX+UGuTdxQ4a2ywQ4NKUkGXDXJyqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Tests\\Services.Api.IntegrationTests\\Services.Api.IntegrationTests.csproj",
+  "projectFilePath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Tests\\Services.Api.IntegrationTests\\Services.Api.IntegrationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yasmin Vilela\\.nuget\\packages\\aspnetcore.healthchecks.sqlserver\\7.0.0\\aspnetcore.healthchecks.sqlserver.7.0.0.nupkg.sha512",
     "C:\\Users\\Yasmin Vilela\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",

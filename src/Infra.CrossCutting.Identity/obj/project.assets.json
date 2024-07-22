@@ -5986,9 +5986,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Infra.CrossCutting.Identity\\Infra.CrossCutting.Identity.csproj",
+      "projectUniqueName": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Infra.CrossCutting.Identity\\Infra.CrossCutting.Identity.csproj",
       "projectName": "TaskB3.Infra.CrossCutting.Identity",
-      "projectPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Infra.CrossCutting.Identity\\Infra.CrossCutting.Identity.csproj",
+      "projectPath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Infra.CrossCutting.Identity\\Infra.CrossCutting.Identity.csproj",
       "packagesPath": "C:\\Users\\Yasmin Vilela\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Infra.CrossCutting.Identity\\obj\\",
       "projectStyle": "PackageReference",
@@ -6007,11 +6007,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Domain.Core\\Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Domain.Core\\Domain.Core.csproj"
+            "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Domain.Core\\Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Domain.Core\\Domain.Core.csproj"
             },
-            "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Infra.Data\\Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\Yasmin Vilela\\Source\\Repos\\ProjectBase\\Src\\Infra.Data\\Infra.Data.csproj"
+            "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Infra.Data\\Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\Yasmin Vilela\\source\\repos\\ProjectBase\\Src\\Infra.Data\\Infra.Data.csproj"
             }
           }
         }
@@ -6087,16 +6087,6 @@
       "level": "Warning",
       "warningLevel": 1,
       "message": "O pacote 'System.IdentityModel.Tokens.Jwt' 7.0.3 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
-      "libraryId": "System.IdentityModel.Tokens.Jwt",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "O pacote 'System.IdentityModel.Tokens.Jwt' 7.0.3 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-8g9c-28fc-mcx2",
       "libraryId": "System.IdentityModel.Tokens.Jwt",
       "targetGraphs": [
         "net6.0"
